@@ -1,1 +1,1 @@
-# Assets for data.amsterdam.nl
+# Assets for amsterdam.github.io/datablog
